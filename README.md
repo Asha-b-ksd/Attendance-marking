@@ -3,6 +3,7 @@
 The Attendance Marking System is a face recognition-based application designed to automate attendance tracking using computer vision. The system captures images of students, detects faces using Haar cascade classifiers, and processes the images for recognition. Once trained, the system can identify students and mark their attendance automatically.
 
 **Key Features:**
+
 Image Capture: Users can capture student images, which are stored in a dataset for training.
 
 Face Detection: Uses OpenCV’s Haar cascade classifier to detect faces in real-time.
